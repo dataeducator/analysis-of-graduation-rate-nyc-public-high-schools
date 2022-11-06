@@ -1,0 +1,25 @@
+,Subgroup,Total,GRAD RATE,GRAD RATE,REGENTS WITH ADVANCED DESIGNATION,REGENTS WITH ADVANCED DESIGNATION,REGENTS DIPLOMA,REGENTS DIPLOMA,LOCAL DIPLOMA,LOCAL DIPLOMA,NON DIPLOMA CRED,NON DIPLOMA CRED,STILL ENROLLED,STILL ENROLLED,GED TRANSFER,GED TRANSFER,DROPOUT,DROPOUT
+,Subgroup,Total,#,%,#,%,#,%,#,%,#,%,#,%,#,%,#,%
+0,All Students,66,54,82%,0,0%,54,82%,0,0%,0,0%,1,2%,0,0%,11,17%
+1,Female,22,19,86%,0,0%,19,86%,0,0%,0,0%,0,0%,0,0%,3,14%
+2,Male,44,35,80%,0,0%,35,80%,0,0%,0,0%,1,2%,0,0%,8,18%
+3,General Education Students,50,46,92%,0,0%,46,92%,0,0%,0,0%,0,0%,0,0%,4,8%
+4,Students with Disabilities,16,8,50%,0,0%,8,50%,0,0%,0,0%,1,6%,0,0%,7,44%
+5,American Indian or Alaska Native,0,0,0%,0,0%,0,0%,0,0%,0,0%,0,0%,0,0%,0,0%
+6,Asian or Native Hawaiian/Other Pacific Islander,0,0,0%,0,0%,0,0%,0,0%,0,0%,0,0%,0,0%,0,0%
+7,Black or African American,23,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—
+8,Hispanic or Latino,40,29,73%,0,0%,29,73%,0,0%,0,0%,1,3%,0,0%,10,25%
+9,White,3,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—
+10,Multiracial,0,0,0%,0,0%,0,0%,0,0%,0,0%,0,0%,0,0%,0,0%
+11,Economically Disadvantaged,54,43,80%,0,0%,43,80%,0,0%,0,0%,1,2%,0,0%,10,19%
+12,Not Economically Disadvantaged,12,11,92%,0,0%,11,92%,0,0%,0,0%,0,0%,0,0%,1,8%
+13,English Language Learner,6,3,50%,0,0%,3,50%,0,0%,0,0%,1,17%,0,0%,2,33%
+14,Non-English Language Learner,60,51,85%,0,0%,51,85%,0,0%,0,0%,0,0%,0,0%,9,15%
+15,In Foster Care,0,0,0%,0,0%,0,0%,0,0%,0,0%,0,0%,0,0%,0,0%
+16,Not in Foster Care,66,54,82%,0,0%,54,82%,0,0%,0,0%,1,2%,0,0%,11,17%
+17,Homeless,11,9,82%,0,0%,9,82%,0,0%,0,0%,0,0%,0,0%,2,18%
+18,Not Homeless,55,45,82%,0,0%,45,82%,0,0%,0,0%,1,2%,0,0%,9,16%
+19,Migrant,0,0,0%,0,0%,0,0%,0,0%,0,0%,0,0%,0,0%,0,0%
+20,Not Migrant,66,54,82%,0,0%,54,82%,0,0%,0,0%,1,2%,0,0%,11,17%
+21,Parent in Armed Forces,0,0,0%,0,0%,0,0%,0,0%,0,0%,0,0%,0,0%,0,0%
+22,Parent Not in Armed Forces,66,54,82%,0,0%,54,82%,0,0%,0,0%,1,2%,0,0%,11,17%
