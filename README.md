@@ -1,5 +1,5 @@
 # New York City 2021 Graduation Rate Analysis
-__by: Tenicka Norwood __
+by: Tenicka Norwood
 
 # Data Understanding
 
