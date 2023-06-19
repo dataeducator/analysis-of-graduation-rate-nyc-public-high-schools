@@ -8,8 +8,7 @@ For over two decades, the New York State Performance Standards Consortium has fo
 # Importing appropriate libraries and visualization packages 
 
 Building code that is modular and easy to use depends on being able to leverage libraries and visualization packages to access useful code in a way that is efficient and easily reproducible.  In particular the folowing libaries:
-* <code> pandas </code>               &rarr;
-* <code> numpy </code>                &rarr;
-* <code> seaborn </code>              &rarr;
-* <code> matplotlib </code>           &rarr;
-
+* <code> pandas </code>                
+* <code> numpy </code>                
+* <code> seaborn </code>             
+* <code> matplotlib </code>           
